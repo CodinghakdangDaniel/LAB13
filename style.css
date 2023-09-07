@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#ourTeam {
+    font-size: 40px;
+}
+
+#teamAgeAverage {
+    font-size: 40px;
+}
+
+#ourSkills {
+    font-size: 40px;
+}
+
+.bottom-container {
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.pushBtn {
+    width: 50px;
+    height: 30px;
+}
+
+.newList {
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+}
